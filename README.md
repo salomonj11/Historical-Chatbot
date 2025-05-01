@@ -26,7 +26,7 @@ This is a full stack historical chatbot project that emulates Abraham Lincoln us
 ### 🔹 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/historical-chatbot.git
+git clone https://github.com/salomonj11/historical-chatbot.git
 cd historical-chatbot
 ```
 
