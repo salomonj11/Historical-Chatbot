@@ -93,5 +93,5 @@ http://localhost:8000
 
 ## ✍️ Author
 
-Created by Jesus Salomon for the Historical Chatbot Project  
+Created by Jesus Salomon
 Graduate Student, Loyola University Chicago
